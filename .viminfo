@@ -1,0 +1,115 @@
+# この viminfo ファイルは Vim 8.0 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:q
+|2,0,1586139881,,"q"
+:wq
+|2,0,1586139869,,"wq"
+:w
+|2,0,1586139116,,"w"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+"1	CHAR	0
+	w
+|3,0,1,0,1,0,1586139564,"w"
+
+# ファイルマーク:
+'0  24  0  /tmp/crontab.CdFPUX/crontab
+|4,48,24,0,1586279699,"/tmp/crontab.CdFPUX/crontab"
+'1  1  0  ~/workspace/vim-study/test.txt
+|4,49,1,0,1586139617,"~/workspace/vim-study/test.txt"
+'2  1  0  ~/workspace/vim-study/test.txt
+|4,50,1,0,1586139128,"~/workspace/vim-study/test.txt"
+'3  1  0  ~/.profile
+|4,51,1,0,1586138926,"~/.profile"
+
+# ジャンプリスト (新しいものが先):
+-'  24  0  /tmp/crontab.CdFPUX/crontab
+|4,39,24,0,1586279699,"/tmp/crontab.CdFPUX/crontab"
+-'  1  0  /tmp/crontab.CdFPUX/crontab
+|4,39,1,0,1586279489,"/tmp/crontab.CdFPUX/crontab"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1586139617,"~/workspace/vim-study/test.txt"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1586139617,"~/workspace/vim-study/test.txt"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1586139617,"~/workspace/vim-study/test.txt"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1586139617,"~/workspace/vim-study/test.txt"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1586139128,"~/workspace/vim-study/test.txt"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1586139128,"~/workspace/vim-study/test.txt"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1586139128,"~/workspace/vim-study/test.txt"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1586139128,"~/workspace/vim-study/test.txt"
+-'  1  0  ~/.profile
+|4,39,1,0,1586138926,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1586138926,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1586138926,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1586138926,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1586138926,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1586138926,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1586138926,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1586138926,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1586138926,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1586138926,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1586138926,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1586138926,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1586138926,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1586138926,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1586138926,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1586138926,"~/.profile"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> /tmp/crontab.CdFPUX/crontab
+	*	1586279564	0
+	"	24	0
+	.	25	0
+	+	25	0
+
+> ~/workspace/vim-study/test.txt
+	*	1586139608	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/.profile
+	*	1586138923	0
+	"	1	0
